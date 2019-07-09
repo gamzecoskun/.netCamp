@@ -46,7 +46,8 @@ namespace netCampWeb
                 app.UseExceptionHandler("/Home/Error");
             }
 
-            app.UseStaticFiles();
+            //statik dosyalara erişim için kullanmak zorundasın.
+            app.UseStaticFiles();   
             app.UseCookiePolicy();
 
             app.UseMvc(routes =>
