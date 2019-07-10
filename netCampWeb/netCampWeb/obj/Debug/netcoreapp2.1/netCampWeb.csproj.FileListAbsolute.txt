@@ -23,3 +23,13 @@ C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2
 C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
 C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\netCampWeb.RazorTargetAssemblyInfo.cache
 C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\netCampWeb.RazorTargetAssemblyInfo.cs
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\netCampWeb.dll
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\netCampWeb.pdb
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\bin\Debug\netcoreapp2.1\netCampWeb.pdb
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\bin\Debug\netcoreapp2.1\netCampWeb.Views.dll
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\bin\Debug\netcoreapp2.1\netCampWeb.Views.pdb
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\netCampWeb.Views.pdb
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\netCampWeb.csproj.CopyComplete
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\Razor\Views\Ogrenci\List.g.cshtml.cs
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\Razor\Views\Ogrenci\Insert.g.cshtml.cs
+C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\obj\Debug\netcoreapp2.1\Razor\Views\Ogrenci\Update.g.cshtml.cs

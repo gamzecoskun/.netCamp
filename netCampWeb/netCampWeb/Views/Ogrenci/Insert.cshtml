@@ -1,0 +1,36 @@
+﻿@model Ogrenci
+@using netCampWeb.Models.Entities
+@{
+    ViewData["Title"] = "Ogrenci Ekleme Formu";
+}
+
+
+<h2>Ogrenci Formu
+<a class="btn btn-info btn-float-right" asp-controller="Ogrenci" asp-action="List"> Geri</a></h2>
+
+<form asp-controller="Ogrenci" asp-action="Insert">
+    <div class="form-group">
+        <label>Kullanıcı Adı</label>
+        @*@Html.TextBox("Adi")*@
+        @Html.TextBoxFor(q => q.KullaniciAdi, new { @class = "form-control" })
+        @*form-control diyince bütün alanı kaplar*@
+        @*<input name="KullaniciAdi" id="KullaniciAdi" class="form-control" required />*@
+    </div>
+    <div class="form-group">
+        <label>Adı</label>
+        @Html.TextBoxFor(q => q.Adi, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label> Soyadı</label>
+        @Html.TextBoxFor(q => q.Soyadi, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        <label>Yası</label>
+        @Html.TextBoxFor(q => q.Yasi, new { @class = "form-control" })
+    </div>
+
+    @*<div class=""form-group></div>*@
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+    <p>@ViewBag.Error</p>
+</form>

@@ -23,8 +23,13 @@ using netCampWeb.Models;
 
 #line default
 #line hidden
+#line 3 "C:\Users\Gamze\source\repos\.netCamp\netCampWeb\netCampWeb\Views\_ViewImports.cshtml"
+using netCampWeb.Models.Entities;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0492040ce46a78ec8902456e4c14fe2bf7cfa20e", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f03fb6e8e878c4bc3c45629a4a650a88e048518e", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
